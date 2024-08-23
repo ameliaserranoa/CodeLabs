@@ -3,13 +3,13 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2024-06-21T02:37:55Z",
+  "updated": "2024-08-09T04:17:30Z",
   "id": "example-drive",
-  "duration": 33,
-  "title": "Codelab de cómo crear un codelab usando Google Docs",
-  "authors": "Nombre(s) autor(es)",
-  "summary": "Resumen del codelab",
-  "source": "10Ih4_YUu2lLuFEfntH6GrzKLPP8_ktrA6fyfh6xIiME",
+  "duration": 0,
+  "title": "Guía de instrucción para administrativos de GPT modificación de boletines",
+  "authors": "Amelia Serrano",
+  "summary": "Guía de instrucción para administrativos de GPT modificación de boletines",
+  "source": "1ec_qonfZey7o_Guyevj3v5ulEWcnDdcdRCszaQX8Spo",
   "theme": "iau",
   "status": [
     "published"
@@ -21,6 +21,5 @@
   "tags": [
     "web"
   ],
-  "feedback": "https://github.com/ncarvajalc/codelabs-iau/issues",
   "url": "example-drive"
 }
