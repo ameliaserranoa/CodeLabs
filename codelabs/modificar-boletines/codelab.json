@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-08-26T13:25:09Z",
+  "id": "modificar-boletines",
+  "duration": 0,
+  "title": "Guía de instrucción para administrativos de GPT modificación de boletines",
+  "authors": "Amelia Serrano",
+  "summary": "Guía de instrucción para administrativos de GPT modificación de boletines",
+  "source": "1ec_qonfZey7o_Guyevj3v5ulEWcnDdcdRCszaQX8Spo",
+  "theme": "iau",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "iau",
+    "codelab"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "modificar-boletines"
+}

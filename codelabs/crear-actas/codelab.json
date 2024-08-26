@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-08-26T13:25:22Z",
+  "id": "crear-actas",
+  "duration": 0,
+  "title": "Guía de instrucción para administrativos de GPT creación y modificación de actas",
+  "authors": "Nombre(s) autor(es)",
+  "summary": "Guia de uso para administrativos del actabot",
+  "source": "1PeGoPF1hKzqbgdwObBKcyn_GPcEr39Rk6rsTI1cDhbk",
+  "theme": "iau",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "iau",
+    "codelab"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "crear-actas"
+}

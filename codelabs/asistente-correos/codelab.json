@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-08-26T13:24:50Z",
+  "id": "asistente-correos",
+  "duration": 0,
+  "title": "Guía de instrucción para administrativos de GPT: Asistente de correos",
+  "authors": "Nombre(s) autor(es)",
+  "summary": "Guía de instrucción para administrativos de GPT: Asistente de correos",
+  "source": "1bxBFu7oczcEuUVaILRxzj2TMQY2LnveJ49MkOg7bCsI",
+  "theme": "iau",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "iau",
+    "codelab"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "asistente-correos"
+}

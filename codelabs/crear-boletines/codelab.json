@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-08-26T13:25:34Z",
+  "id": "crear-boletines",
+  "duration": 0,
+  "title": "Guía de instrucción para administrativos de GPT creación de boletines",
+  "authors": "Amelia Serrano",
+  "summary": "Guía de instrucción para administrativos de GPT creación de boletines",
+  "source": "1SzR3MPgVd-wsGdcSYblptNPGrHC_EPdFKRPcTFoCSz8",
+  "theme": "iau",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "iau",
+    "codelab"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "crear-boletines"
+}
